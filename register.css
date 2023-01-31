@@ -1,0 +1,435 @@
+@media screen and (max-width: 900px){
+    body{
+        background-color: #eee;
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        margin-left: 10%;
+    }
+    label{
+        margin-top: 20px;
+    }
+    #please{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border:  2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #usd{
+        margin-left: 10%;
+    }
+    #eur{
+        margin-left: 10%;
+    }
+    #n{
+        margin-left: 10%;
+    }
+    #name{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border:  2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #t{
+        margin-left: 10%;
+    }
+    #telephone{
+        width: 80%;
+        padding: 13px;
+        outline:  none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #email{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #mailing{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #city{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #option{
+        width: 87%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #postal{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #country{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #citizenship{
+        margin-left: 10%;
+    }
+    #dob{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #marital{
+        width: 87%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #language{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #occupation{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #employer{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #income{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #nationality{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #yes{
+        margin-left: 10%;
+    }
+    #no{
+        margin-left: 10%;
+    }
+    #signature{
+        margin-left: 10%;
+    }
+    #add{
+        margin-left: 10%;
+    }
+    #agree{
+        margin-left: 10%;
+    }
+    #robot{
+        margin-left: 10%;
+    }
+    #1{
+        margin-left: 10%;
+    }
+    #s{
+        margin-left: 10%;
+        margin-bottom: 10px;
+    }
+    #reg{
+        text-align: center;
+    }
+    #robot1{
+        border: 2px solid #bbb;
+        background-color: white;
+        width: 75%;
+        height: 30px;
+        margin-left: 10%;
+        padding: 20px;
+    }
+    #robot{
+        margin-right: 10%;
+
+    }
+    
+        button{
+            font-size: 15px;
+            padding: 10px 50px 10px 50px;
+            margin-top: 40px;
+            border-radius: 20px;
+            background-color: rgb(131, 171, 180);
+            border: none;
+            outline: none;
+        }
+}
+
+@media screen and (min-width: 901px){
+
+    body{
+        background-color: #eee;
+    }
+    #real{
+        width: 70%;
+        border: 2px solid #bbb;
+        border-radius: 25px;
+        margin-left: 15%;
+    }
+    h2{
+        text-align: center;
+    }
+    p{
+        margin-left: 10%;
+        margin-top: 2%;
+
+    }
+    lable{
+    margin-top: 2%;
+}
+    #please{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border:  2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #usd{
+        margin-left: 10%;
+    }
+    #eur{
+        margin-left: 10%;
+    }
+    #n{
+        margin-left: 10%;
+    }
+    #name{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border:  2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #t{
+        margin-left: 10%;
+    }
+    #telephone{
+        width: 80%;
+        padding: 13px;
+        outline:  none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #email{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #mailing{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #city{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #option{
+        width: 87%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+        margin-top: 2%;
+    }
+    #postal{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #country{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #citizenship{
+        margin-left: 10%;
+    }
+    #dob{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #marital{
+        width: 87%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #language{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #occupation{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #employer{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #income{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #nationality{
+        width: 80%;
+        padding: 13px;
+        outline: none;
+        border: 2px solid #ccc;
+        border-radius: 25px;
+        margin-left: 10%;
+    }
+    #yes{
+        margin-left: 10%;
+    }
+    #no{
+        margin-left: 10%;
+    }
+    #signature{
+        margin-left: 10%;
+    }
+    #add{
+        margin-left: 10%;
+    }
+    #agree{
+        margin-left: 10%;
+    }
+    #robot{
+        margin-left: 10%;
+    }
+    #1{
+        margin-left: 10%;
+    }
+    #s{
+        margin-left: 10%;
+        margin-bottom: 10px;
+        margin-top: 2%;
+    }
+    #ag{
+        text-decoration: none;
+    }
+    #reg{
+        text-align: center;
+    }
+
+    #robot1{
+        border: 2px solid #bbb;
+        background-color: white;
+        width: 75%;
+        height: 30px;
+        margin-left: 10%;
+        padding: 20px;
+    }
+    #robot{
+        margin-right: 10%;
+
+    }
+    
+        button{
+            font-size: 15px;
+            padding: 10px 50px 10px 50px;
+            margin-top: 40px;
+            border-radius: 20px;
+            background-color: rgb(131, 171, 180);
+            border: none;
+            outline: none;
+        }
+}

@@ -1,0 +1,169 @@
+@media screen and (max-width: 800px){
+    body{
+        background-color: #eee;
+    }
+    #header{
+
+        background-color: rgb(7, 7, 49);
+        color: white;
+        width: 100%;
+        height: 60px;
+        padding: 20px;
+    }
+    #icon0{
+        font-size: 30px;
+        color: white;
+         float: left;
+         margin-right: 20%;
+         margin-top: 12px; 
+    }
+    #icon1{
+        font-size: 30px;
+        color: white;
+         float: right;
+         margin-right: 10%;
+         margin-top: -42px;
+    }
+    #sign-in{
+        background-color: green;
+        width: 50%;
+        padding: 0.1px;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 25%;
+        margin-top: 20%;
+        outline: none;
+    }
+    #sign-in p{
+        padding: 4px;
+    }
+    form{
+        margin-top: 30px;
+    }
+    label{
+        font-size: 20px;
+        margin-top: 10%;
+    }
+    #login{
+        width: 95%;
+        padding: 2%;
+        outline: none;
+        border: none;
+    }
+    #password{
+        width: 95%;
+        padding: 2%;
+        outline: none;
+        border: none;
+        margin-top: 2%;
+    }
+    input{
+        font-size: 18px;
+        margin: 10px;
+        
+    }
+    #register{
+        background-color: green;
+        width: 90%;
+        padding: 14px;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 3%;
+        margin-top: 10%;
+        outline: none;
+    }
+    #register a{
+        text-decoration: none;
+        text-align: center;
+        font-weight:bolder;
+        color: black;
+    }
+    #register:hover{
+        color: rgb(76, 217, 51);
+    }
+}
+
+@media screen and (min-width:900px){
+    body{
+        background-color: #eee;
+    }
+    #header{
+        font-size: 30px;
+        background-color: rgb(7, 7, 49);
+        color: white;
+        width: 100%;
+        height: 80px;
+        padding: 20px;
+    }
+    #icon0{
+        font-size: 50px;
+        color: white;
+         float: left;
+         margin-right: 34%;
+         margin-top: 12px; 
+    }
+    #icon1{
+        font-size: 50px;
+        color: white;
+         float: right;
+         margin-right: 5%;
+         margin-top: -85px;
+    }
+    #sign-in{
+        background-color: green;
+        width: 25%;
+        padding: 0.1px;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 37.5%;
+        margin-top: 5%;
+        outline: none;
+    }
+    #sign-in p{
+        padding: 4px;
+    }
+    form{
+        margin-top: 30px;
+    }
+    label{
+        font-size: 20px;
+        margin-top: 5%;
+    }
+    #login{
+        width: 95%;
+        padding: 2%;
+        outline: none;
+        border: none;
+    }
+    #password{
+        width: 95%;
+        padding: 2%;
+        outline: none;
+        border: none;
+        margin-top: 2%;
+    }
+    input{
+        font-size: 18px;
+        margin: 10px;
+        
+    }
+    #register{
+        background-color: green;
+        width: 60%;
+        padding: 14px;
+        text-align: center;
+        border-radius: 10px;
+        margin-left: 20%;
+        margin-top: 4%;
+        outline: none;
+    }
+    #register a{
+        text-decoration: none;
+        text-align: center;
+        font-weight:bolder;
+        color: black;
+    }
+    #register:hover{
+        color: rgb(76, 217, 51);
+    }
+}
